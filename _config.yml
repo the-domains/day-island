@@ -1,0 +1,28 @@
+name: Day Island
+favicon: null
+layout_spectrum: 0.2844769856892526
+typography_spectrum: 0.15044557815417647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0036895128432661295
+  lightness: 0.2385020856745541
+  saturation: 0.01784066902473569
+  rhythmicContrast: 0.011581887723878026
+purpose: []
