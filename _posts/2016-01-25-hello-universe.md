@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-01-25T20:04:49.445Z'
-dateModified: '2016-01-25T20:04:44.601Z'
+datePublished: '2016-01-25T20:09:24.670Z'
+dateModified: '2016-01-25T20:09:21.552Z'
 title: 'Hello, Universe!'
 author: []
 sourcePath: _posts/2016-01-25-hello-universe.md
