@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-01-25T20:09:24.809Z'
-dateModified: '2016-01-25T20:09:21.552Z'
+datePublished: '2016-01-25T20:15:47.502Z'
+dateModified: '2016-01-25T20:15:40.741Z'
 title: 'Hello, Universe!'
 author: []
 sourcePath: _posts/2016-01-25-hello-universe.md
