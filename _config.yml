@@ -1,6 +1,6 @@
 name: Day Island
 favicon: null
-layout_spectrum: 0.2844769856892526
+layout_spectrum: 0
 typography_spectrum: 0.15044557815417647
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.0036895128432661295
+  brandStrength: 0
   lightness: 0.2385020856745541
-  saturation: 0.01784066902473569
+  saturation: 0
   rhythmicContrast: 0.011581887723878026
 purpose: []
